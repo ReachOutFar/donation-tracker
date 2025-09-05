@@ -1,0 +1,56 @@
+{
+  "deliveries": [
+    {
+      "id": 1,
+      "start_lat": 51.505,
+      "start_lng": -0.09,
+      "end_lat": 51.515,
+      "end_lng": -0.1,
+      "speed": 0.001,
+      "status": "On the way",
+      "schedule_day": "Monday",
+      "arrival_date": "2025-09-10",
+      "driver_name": "John Doe",
+      "package_info": "50 boxes"
+    },
+    {
+      "id": 2,
+      "start_lat": 51.51,
+      "start_lng": -0.08,
+      "end_lat": 51.52,
+      "end_lng": -0.12,
+      "speed": 0.0008,
+      "status": "In Transit",
+      "schedule_day": "Tuesday",
+      "arrival_date": "2025-09-11",
+      "driver_name": "Mary Smith",
+      "package_info": "100 bags"
+    },
+    {
+      "id": 3,
+      "start_lat": 51.507,
+      "start_lng": -0.1,
+      "end_lat": 51.525,
+      "end_lng": -0.11,
+      "speed": 0.0012,
+      "status": "On Schedule",
+      "schedule_day": "Wednesday",
+      "arrival_date": "2025-09-12",
+      "driver_name": "Alex Johnson",
+      "package_info": "200 meals"
+    },
+    {
+      "id": 4,
+      "start_lat": 51.503,
+      "start_lng": -0.095,
+      "end_lat": 51.518,
+      "end_lng": -0.13,
+      "speed": 0.001,
+      "status": "Departed",
+      "schedule_day": "Thursday",
+      "arrival_date": "2025-09-13",
+      "driver_name": "Sarah Lee",
+      "package_info": "75 blankets"
+    }
+  ]
+}
